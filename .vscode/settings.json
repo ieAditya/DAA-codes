@@ -1,0 +1,7 @@
+{
+    "workbench.panel.defaultLocation": "r",
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}
